@@ -1,0 +1,72 @@
+export const DEFAULT_STATE = 'Tamil Nadu';
+
+export const TAMIL_NADU_DISTRICTS = [
+  'Ariyalur',
+  'Chengalpattu',
+  'Chennai',
+  'Coimbatore',
+  'Cuddalore',
+  'Dharmapuri',
+  'Dindigul',
+  'Erode',
+  'Kallakurichi',
+  'Kancheepuram',
+  'Karur',
+  'Krishnagiri',
+  'Madurai',
+  'Mayiladuthurai',
+  'Nagapattinam',
+  'Kanniyakumari',
+  'Namakkal',
+  'Perambalur',
+  'Pudukottai',
+  'Ramanathapuram',
+  'Ranipet',
+  'Salem',
+  'Sivaganga',
+  'Tenkasi',
+  'Thanjavur',
+  'Theni',
+  'The Nilgiris',
+  'Thoothukudi',
+  'Tiruchirappalli',
+  'Tirunelveli',
+  'Tirupathur',
+  'Tiruppur',
+  'Tiruvallur',
+  'Tiruvannamalai',
+  'Tiruvarur',
+  'Vellore',
+  'Viluppuram',
+  'Virudhunagar'
+];
+
+export const SUPPORTED_CROPS = [
+  'Paddy – Common',
+  'Paddy – Grade A',
+  'Sorghum (Cholam) – Hybrid',
+  'Sorghum (Cholam) – Maldandi',
+  'Cumbu (Pearl Millet)',
+  'Maize',
+  'Ragi',
+  'Redgram (Tur/Toor)',
+  'Greengram',
+  'Blackgram (Urad)',
+  'Bengalgram (Chickpea)',
+  'Cotton – Medium Staple',
+  'Cotton – Long Staple',
+  'Groundnut',
+  'Sugarcane',
+  'Sunflower',
+  'Soyabean',
+  'Sesamum (Gingelly)',
+  'Copra – Milling',
+  'Copra – Ball',
+  'Dehusked Coconut'
+];
+
+export const FACILITY_TYPES = [
+  'Procurement Centre',
+  'Godown',
+  'Procurement Centre + Godown'
+];
