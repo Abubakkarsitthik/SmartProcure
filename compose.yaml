@@ -1,0 +1,10 @@
+
+services:
+  smartprocure:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: smartprocure
+    ports:
+      - "8080:80"
+    restart: unless-stopped
